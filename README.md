@@ -33,6 +33,7 @@ Lista dos melhores cursos gratuitos online de Python
 * [Manual de Python - Professor Gabriel Masson](http://gmasson.com.br/guia/python.html)
 * [O tutorial de Python - Turing.com.br](http://turing.com.br/pydoc/2.7/tutorial/)
 * [CODEACADEMY - www.codecademy.com](https://www.codecademy.com/pt-BR/learn/python)
+* [Wiki Python](https://wiki.python.org.br/)
 
 ### Apostilas
 
